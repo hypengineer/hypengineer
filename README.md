@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Okan İZİ</h1>
 <h3 align="center">A passionate backend developer from Istanbul</h3>
+[![](https://visitcount.itsvg.in/api?id=hypengineer&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ![MasterHead](https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif)
 
